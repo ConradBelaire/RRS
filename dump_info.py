@@ -1,9 +1,17 @@
 """For downloading all the podcasts"""
 
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+import os.path
 import requests
 
+from datetime import datetime, timedelta
+
+
+def retrieve_url_into_file(url, filename):
+    r = requests.get(url, stream=True)
+    with open(filename, 'wb') as fd:
+        for chunk in r.iter_content(512):
+            fd.write(chunk)
 
 
 def parse_item(item):
@@ -30,6 +38,9 @@ def main(filename, days_ago):
 
     for i in new_items:
         print ("{date}\n{title}: {url}".format(**i))
+        url=i['url']
+        retrieve_url_into_file(url, os.path.basename(url))
 
 
-main('RoosterTeeth.xml', 40)
+
+main('RoosterTeeth.xml', 10)
