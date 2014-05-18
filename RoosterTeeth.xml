@@ -1,0 +1,3026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+               <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+               <channel>
+               <title>Rooster Teeth Podcast</title>
+               <link>http://roosterteeth.com/podcast/</link>
+               <language>en-us</language>
+               <atom:link href="http://s3.roosterteeth.com/podcasts/index.xml" rel="self" type="application/rss+xml" />
+               <copyright>2008-2014 Rooster Teeth Productions</copyright>
+               <itunes:new-feed-url>http://s3.roosterteeth.com/podcasts/index.xml</itunes:new-feed-url>
+               <itunes:subtitle>The Rooster Teeth crew discuss gaming, pop culture and upcoming projects.</itunes:subtitle>
+               <itunes:author>Rooster Teeth Staff</itunes:author>
+               <itunes:summary>On a weekly basis the Rooster Teeth (creators of Red vs Blue) crew discuss gaming, pop culture and projects that they are currently working on.</itunes:summary>
+               <description>Listen to the Rooster Teeth gang talk about Gaming, the Internet, Movies, or whatever the hell else they want to talk about.  It is just like the Howard Stern show... but with a bunch of nerds and no naked chicks.</description>
+               <itunes:owner>
+               <itunes:name>Gus Sorola</itunes:name>
+               <itunes:email>podcast@roosterteeth.com</itunes:email>
+               </itunes:owner>
+               <itunes:image href="http://s3.roosterteeth.com/podcasts/rtpodcast.jpg" />
+               <itunes:explicit>yes</itunes:explicit>
+               <itunes:category text="Comedy" />
+			<item>
+			<title>RT Podcast #271</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=271</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 13 May 2014 21:43:00 GMT</pubDate>
+			<description>RT Discusses Normal Humans</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_271.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">271</guid>
+			<itunes:duration>1:38:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #270</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=270</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 06 May 2014 20:58:17 GMT</pubDate>
+			<description>RT Takes a Whack at Cinco de Michael</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_270.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">270</guid>
+			<itunes:duration>1:48:07</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #269</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=269</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 29 Apr 2014 21:04:39 GMT</pubDate>
+			<description>RT Debuts on the Stage 5 Set</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_269.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">269</guid>
+			<itunes:duration>1:41:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #268</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=268</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 22 Apr 2014 22:06:41 GMT</pubDate>
+			<description>RT Moves On Up</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_268b.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">268</guid>
+			<itunes:duration>1:45:38</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #267</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=267</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 15 Apr 2014 21:58:08 GMT</pubDate>
+			<description>RT Discusses Old Pee</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_267.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">267</guid>
+			<itunes:duration>1:37:22</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #266</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=266</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 08 Apr 2014 21:02:29 GMT</pubDate>
+			<description>RT discuss Immersion and the premiere of Game of Thrones</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_266.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">266</guid>
+			<itunes:duration>1:41:12</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #265</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=265</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 01 Apr 2014 21:26:10 GMT</pubDate>
+			<description>RT Celebrates 11 Years</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_265.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">265</guid>
+			<itunes:duration>1:49:48</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #264</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=264</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 25 Mar 2014 23:31:53 GMT</pubDate>
+			<description>RT Podcast Welcomes Back Brandon</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_264.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">264</guid>
+			<itunes:duration>1:43:03</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #263</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=263</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 18 Mar 2014 22:31:18 GMT</pubDate>
+			<description>RT Downs Some Green Beer</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_263.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">263</guid>
+			<itunes:duration>1:49:50</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #262</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=262</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 14 Mar 2014 23:07:03 GMT</pubDate>
+			<description>RT Partycasts with Onnit and Joe Rogan</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Partycast.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">262</guid>
+			<itunes:duration>1:00:29</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #261</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=261</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Mar 2014 00:27:42 GMT</pubDate>
+			<description>RT Live from SXSW</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_261.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">261</guid>
+			<itunes:duration>57:52</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #260</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=260</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 04 Mar 2014 21:55:12 GMT</pubDate>
+			<description>RT Celebrates Pancake Day</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_260.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">260</guid>
+			<itunes:duration>1:21:46</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #259</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=259</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 25 Feb 2014 21:58:13 GMT</pubDate>
+			<description>RT Discusses Heroes Reborn</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_259.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">259</guid>
+			<itunes:duration>1:47:57</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #258</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=258</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 18 Feb 2014 21:57:34 GMT</pubDate>
+			<description>RT Discusses Self Inflation</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_258.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">258</guid>
+			<itunes:duration>1:52:11</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #257</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=257</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 11 Feb 2014 21:58:40 GMT</pubDate>
+			<description>RT Tests The Super Sniffer</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_257.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">257</guid>
+			<itunes:duration>1:47:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #256</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=256</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 04 Feb 2014 22:01:55 GMT</pubDate>
+			<description>RT Discusses Nasty Tap Water</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_256.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">256</guid>
+			<itunes:duration>1:41:59</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #255</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=255</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 28 Jan 2014 23:13:34 GMT</pubDate>
+			<description>RT Discusses Travel Stories</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_255.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">255</guid>
+			<itunes:duration>1:35:25</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #254</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=254</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 21 Jan 2014 22:05:43 GMT</pubDate>
+			<description>Rt Discusses Childhood Memories</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_254r.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">254</guid>
+			<itunes:duration>1:38:48</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #253</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=253</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 14 Jan 2014 21:57:09 GMT</pubDate>
+			<description>RT Discusses Bathroom Etiquette</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_253.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">253</guid>
+			<itunes:duration>1:42:04</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #252</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=252</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 07 Jan 2014 22:15:24 GMT</pubDate>
+			<description>RT Reveals Our Resolutions</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_252.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">252</guid>
+			<itunes:duration>1:40:52</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #251</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=251</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 31 Dec 2013 21:57:21 GMT</pubDate>
+			<description>2013 RT Podcast Awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_251.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">251</guid>
+			<itunes:duration>1:36:52</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #250</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=250</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 24 Dec 2013 19:29:22 GMT</pubDate>
+			<description>RT Discusses Our Best Gifts Ever</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_250.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">250</guid>
+			<itunes:duration>1:32:50</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #249</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=249</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 17 Dec 2013 21:59:41 GMT</pubDate>
+			<description>RT Discusses Our Worst Pain</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_249.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">249</guid>
+			<itunes:duration>1:37:12</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #248</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=248</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 10 Dec 2013 21:56:28 GMT</pubDate>
+			<description>RT Discusses 2013 Awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_248.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">248</guid>
+			<itunes:duration>1:37:13</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #247</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=247</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 03 Dec 2013 21:58:02 GMT</pubDate>
+			<description>RT Discusses Black Friday Fights</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_247.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">247</guid>
+			<itunes:duration>1:34:35</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #246</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=246</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 26 Nov 2013 21:59:05 GMT</pubDate>
+			<description>RT Discusses Gavin&#039;s Ghosts</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_246.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">246</guid>
+			<itunes:duration>1:36:28</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #245</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=245</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 19 Nov 2013 21:55:27 GMT</pubDate>
+			<description>RT Discusses Wild Videos</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_245.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">245</guid>
+			<itunes:duration>1:35:39</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #244</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=244</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 12 Nov 2013 21:57:56 GMT</pubDate>
+			<description>RT&#039;s Bachelor Party for Jack</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_244.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">244</guid>
+			<itunes:duration>1:32:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #243</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=243</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 05 Nov 2013 22:03:20 GMT</pubDate>
+			<description>RT Discusses Fave Extra Life Moments</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_243.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">243</guid>
+			<itunes:duration>1:32:28</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #242</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=242</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 29 Oct 2013 21:58:50 GMT</pubDate>
+			<description>RT Discusses GTA V Strippers</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_242.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">242</guid>
+			<itunes:duration>1:34:24</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #241</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=241</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 22 Oct 2013 22:00:24 GMT</pubDate>
+			<description>RT Discusses Girls Girls Girls</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_241.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">241</guid>
+			<itunes:duration>1:32:57</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #240</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=240</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 15 Oct 2013 22:04:44 GMT</pubDate>
+			<description>RT Discusses Clone Love</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_240.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">240</guid>
+			<itunes:duration>1:34:18</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #239</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=239</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 08 Oct 2013 21:31:37 GMT</pubDate>
+			<description>RT Discusses Podcast Regrets</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_239.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">239</guid>
+			<itunes:duration>1:34:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #238</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=238</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 01 Oct 2013 20:35:17 GMT</pubDate>
+			<description>RT Discusses Sex Ed Class</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_238.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">238</guid>
+			<itunes:duration>1:41:53</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #237</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=237</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 24 Sep 2013 18:31:20 GMT</pubDate>
+			<description>RT is live from the set of The Gauntlet Season 2</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_237_1.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">237</guid>
+			<itunes:duration>1:38:35</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #236</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=236</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 17 Sep 2013 20:59:09 GMT</pubDate>
+			<description>RT goes off the rails</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_236.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">236</guid>
+			<itunes:duration>1:35:24</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #235</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=235</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 10 Sep 2013 21:00:01 GMT</pubDate>
+			<description>RT welcomes back Matt and Joe The Cat</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_235.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">235</guid>
+			<itunes:duration>2:06:53</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #234</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=234</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 03 Sep 2013 21:01:03 GMT</pubDate>
+			<description>RT discusses their best flirting tricks</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_234.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">234</guid>
+			<itunes:duration>1:15:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #233</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=233</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 27 Aug 2013 20:39:58 GMT</pubDate>
+			<description>RT discusses big Tower of Pimps news</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_233.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">233</guid>
+			<itunes:duration>1:37:32</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #232</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=232</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 20 Aug 2013 21:33:35 GMT</pubDate>
+			<description>RT discusses Gavin&#039;s 3 Part Sex Dream</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_232.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">232</guid>
+			<itunes:duration>1:34:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #231</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=231</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 13 Aug 2013 19:46:46 GMT</pubDate>
+			<description>RT discusses Gavin&#039;s questionable laundry service.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_231.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">231</guid>
+			<itunes:duration>1:39:59</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #230</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=230</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 06 Aug 2013 22:22:21 GMT</pubDate>
+			<description>RT discusses what happens behind closed doors.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_230.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">230</guid>
+			<itunes:duration>1:33:08</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #229</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=229</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 30 Jul 2013 22:16:11 GMT</pubDate>
+			<description>RT discusses the fall of Fez 2 and grouchy gamers</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_229.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">229</guid>
+			<itunes:duration>1:41:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #228</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=228</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 23 Jul 2013 21:49:15 GMT</pubDate>
+			<description>RT does it down under from PAX Australia</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_228b.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">228</guid>
+			<itunes:duration>46:01</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #227</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=227</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 16 Jul 2013 21:40:37 GMT</pubDate>
+			<description>RT discusses number ones, bad birthday cake and Gavin&#039;s big RTX mishap</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_227.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">227</guid>
+			<itunes:duration>1:59:38</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, RTX</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #226</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=226</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 09 Jul 2013 21:27:20 GMT</pubDate>
+			<description>RT does it live from RTX 2013!  Joel vs. Jack!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_226.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">226</guid>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #225</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=225</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 02 Jul 2013 23:03:10 GMT</pubDate>
+			<description>RT discusses RTX 2013 and buying land on the moon</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_225b.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">225</guid>
+			<itunes:duration>2:03:33</itunes:duration>
+			<itunes:keywords>rooster teeth, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #224</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=224</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 25 Jun 2013 22:30:24 GMT</pubDate>
+			<description>RT Eats Marshmallows Down Under</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_224.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">224</guid>
+			<itunes:duration>2:08:43</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #223</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=223</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 18 Jun 2013 22:46:09 GMT</pubDate>
+			<description>RT opens its gates.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_223.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">223</guid>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #222</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=222</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 11 Jun 2013 21:44:50 GMT</pubDate>
+			<description>RT punches their poop</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_222.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">222</guid>
+			<itunes:duration>1:55:50</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #221</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=221</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 04 Jun 2013 20:20:38 GMT</pubDate>
+			<description>RT survives Las Vegas! </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_221.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">221</guid>
+			<itunes:duration>1:42:27</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #220</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=220</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 28 May 2013 22:04:42 GMT</pubDate>
+			<description>Rooster Teeth Eats Your Pizza</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_220.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">220</guid>
+			<itunes:duration>1:39:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #219</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=219</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 21 May 2013 21:59:28 GMT</pubDate>
+			<description>RT doesn&#039;t pay their time bill. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_219.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">219</guid>
+			<itunes:duration>1:50:11</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #218</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=218</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 14 May 2013 20:20:30 GMT</pubDate>
+			<description>RT Remembers Their Friends</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_218.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">218</guid>
+			<itunes:duration>1:52:54</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #217</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=217</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 07 May 2013 22:46:39 GMT</pubDate>
+			<description>RT looks at their assholes. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_217.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">217</guid>
+			<itunes:duration>1:41:47</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Australia, bullying, shaving mirror, choking, hands</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #216</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=216</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 30 Apr 2013 22:43:19 GMT</pubDate>
+			<description>RT curses your baby. Again. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_216.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">216</guid>
+			<itunes:duration>1:50:26</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, libel, gold, farts, spit cups, clutches.</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #215</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=215</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 23 Apr 2013 20:52:44 GMT</pubDate>
+			<description>RT sets off the alarm.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_215.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">215</guid>
+			<itunes:duration>1:39:30</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Catbug, dating, texting, Planet Krypton, Zac Efron, dick money</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #214</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=214</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 16 Apr 2013 22:45:56 GMT</pubDate>
+			<description>RT eats a giant spoonful of Bac Os.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_214.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">214</guid>
+			<itunes:duration>1:47:25</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Hollywood, Let</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #213</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=213</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 09 Apr 2013 23:17:03 GMT</pubDate>
+			<description>RT punches squirrels. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_213.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">213</guid>
+			<itunes:duration>1:49:27</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, squirrels, pubes, World War Z, Oblivion, Red Cameras</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #212</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=212</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 02 Apr 2013 23:36:45 GMT</pubDate>
+			<description>RT spits on Matt</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_212.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">212</guid>
+			<itunes:duration>1:40:36</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, 10 Year Anniversary, Immersion</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #211</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=211</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 26 Mar 2013 21:50:36 GMT</pubDate>
+			<description>RT gets friendship necklaces.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_211.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">211</guid>
+			<itunes:duration>1:51:43</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, PAX East, RWBY, Black Trailer, RT Road Trip, Necklaces</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #210</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=210</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 19 Mar 2013 22:17:20 GMT</pubDate>
+			<description>RT eats babies. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_210.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">210</guid>
+			<itunes:duration>1:53:10</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #209</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=209</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Mar 2013 00:26:26 GMT</pubDate>
+			<description>RT introduces themselves again.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_209.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">209</guid>
+			<itunes:duration>2:03:47</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #208</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=208</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 05 Mar 2013 23:05:38 GMT</pubDate>
+			<description>RT is half an egg</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_208.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">208</guid>
+			<itunes:duration>1:59:41</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #207</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=207</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 26 Feb 2013 21:48:53 GMT</pubDate>
+			<description>RT doesn&#039;t help people up.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_207.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">207</guid>
+			<itunes:duration>2:02:15</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #206</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=206</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 21 Feb 2013 01:16:06 GMT</pubDate>
+			<description>RT is blinded and burned by the light.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_206.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">206</guid>
+			<itunes:duration>2:15:09</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #205</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=205</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Feb 2013 21:31:21 GMT</pubDate>
+			<description>RT can&#039;t fit a whole pancake in their mouths.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_205.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">205</guid>
+			<itunes:duration>1:50:42</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #204</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=204</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 06 Feb 2013 21:41:11 GMT</pubDate>
+			<description>RT washes their bodies with shampoo.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_204.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">204</guid>
+			<itunes:duration>1:52:45</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #203</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=203</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 Jan 2013 21:31:28 GMT</pubDate>
+			<description>RT snacks on clittles. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_203.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">203</guid>
+			<itunes:duration>1:52:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #202</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=202</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Jan 2013 23:15:22 GMT</pubDate>
+			<description>RT hides dead bodies.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_202.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">202</guid>
+			<itunes:duration>1:51:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #201</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=201</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Jan 2013 22:49:14 GMT</pubDate>
+			<description>RT puts knobs in clunges. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_201.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">201</guid>
+			<itunes:duration>1:38:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #200</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=200</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Jan 2013 17:44:13 GMT</pubDate>
+			<description>RT celebrates podcast 200!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_200.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">200</guid>
+			<itunes:duration>1:44:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #199</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=199</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Jan 2013 19:50:04 GMT</pubDate>
+			<description>RT has a shitty little dog</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_199.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">199</guid>
+			<itunes:duration>1:40:28</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #198</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=198</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 Dec 2012 18:25:28 GMT</pubDate>
+			<description>What we lack in feet we make up for in inches</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_198.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">198</guid>
+			<itunes:duration>1:50:11</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #197</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=197</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 19 Dec 2012 21:50:24 GMT</pubDate>
+			<description>It&#039;s the RT Podcast Awards for 2012!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_197.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">197</guid>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #196</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=196</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Dec 2012 23:56:10 GMT</pubDate>
+			<description>RT lists their nominees for their 2012 Podcast Awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_196.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">196</guid>
+			<itunes:duration>2:02:35</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #195</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=195</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 Dec 2012 19:59:41 GMT</pubDate>
+			<description>RT is always angry. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_195.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">195</guid>
+			<itunes:duration>1:53:28</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, skiing, australia, Jordan, Producers Guild, Jessica Nigri, Netflix</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #194</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=194</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Nov 2012 20:39:32 GMT</pubDate>
+			<description>RT farts on little girls heads.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_194.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">194</guid>
+			<itunes:duration>1:36:57</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, hair, yolo, bowling, Halo 4</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #193</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=193</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Nov 2012 20:16:20 GMT</pubDate>
+			<description>RT takes two dates to prom. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_193.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">193</guid>
+			<itunes:duration>1:50:02</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, natural selection two, vomit, mighty fine, nuketown</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #192</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=192</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 15 Nov 2012 00:04:45 GMT</pubDate>
+			<description>RT pisses in arches</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_192.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">192</guid>
+			<itunes:duration>1:44:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, The Full Monty, Dan, Tequila, Greg Kinnear, septic tanks</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #191</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=191</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Nov 2012 23:14:18 GMT</pubDate>
+			<description>RT breaks fences</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_191.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">191</guid>
+			<itunes:duration>1:29:07</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima,RvB Season Finale, RWBY, Halo 4, </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #190</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=190</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 31 Oct 2012 22:07:09 GMT</pubDate>
+			<description>Happy Halloween from RT!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_190.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">190</guid>
+			<itunes:duration>1:35:38</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, insert coin, onnit, ah beanie, beer hat</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #189</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=189</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 24 Oct 2012 23:00:10 GMT</pubDate>
+			<description>RT busts its nuts. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_189.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">189</guid>
+			<itunes:duration>1:38:16</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, gavins balls, gerard butler, fights, batman beyond</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #188</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=188</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Oct 2012 21:56:15 GMT</pubDate>
+			<description>RT totally manscapes</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_188.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">188</guid>
+			<itunes:duration>0:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, face eating, reddit, rwby, weight of light</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #187</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=187</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Oct 2012 21:51:56 GMT</pubDate>
+			<description>RT gets personal. Real personal. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_187.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">187</guid>
+			<itunes:duration>1:38:19</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, sleep, lightning, virginity, Canada</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #186</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=186</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 03 Oct 2012 21:26:00 GMT</pubDate>
+			<description>RT knows poop is funny</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_186.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">186.5</guid>
+			<itunes:duration>1:27:32</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, voting, zombies, fleshlight, cupcakes</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #185.5</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=185.5</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 27 Sep 2012 22:43:39 GMT</pubDate>
+			<description>RT explains stuff</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_185.5.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">185.5</guid>
+			<itunes:duration>23:03</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #185</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=185</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 Sep 2012 21:54:54 GMT</pubDate>
+			<description>RT celebrates their first live stream podcast!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_185.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">185</guid>
+			<itunes:duration>1:38:56</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, space, time, joe, cochlea, hand egg</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #184</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=184</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 19 Sep 2012 15:44:51 GMT</pubDate>
+			<description>RT does not wear seat belts in taxis. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_184.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">184</guid>
+			<itunes:duration>1:37:10</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, lemmiwinks, boomerang, Mitch</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #183</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=183</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Sep 2012 15:59:03 GMT</pubDate>
+			<description>RT sits down with Hannah Hart and Shira Lazar!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_183.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">183</guid>
+			<itunes:duration>1:06:20</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Hannah Hart, Shira Lazar, sandalwood, machinimates</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #182</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=182</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 Sep 2012 22:38:48 GMT</pubDate>
+			<description>RT does not know emotion. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_182.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">182</guid>
+			<itunes:duration>1:53:41</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Breaking Bad, moon, curiosity, stone, tonne, formula 1</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #181</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=181</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Aug 2012 15:18:32 GMT</pubDate>
+			<description>RT farts on Gavin</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_181.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">181</guid>
+			<itunes:duration>1:41:19</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, power rangers, waterboarding, lemonade, braveheart, nootropic</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #180</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=180</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 23 Aug 2012 00:37:25 GMT</pubDate>
+			<description>RT has a painin vajayjay</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_180.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">180</guid>
+			<itunes:duration>1:19:58</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, merkin, vajazzle, chi city, mirrors</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #179</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=179</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Aug 2012 15:58:21 GMT</pubDate>
+			<description>RT eats giant gummi bears on Mars</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_179.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">179</guid>
+			<itunes:duration>1:26:17</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, gummi bear, urethra, combs, accidents, skydiving</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #178</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=178</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Aug 2012 15:07:28 GMT</pubDate>
+			<description>RT has not invented time travel yet.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_178.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">178</guid>
+			<itunes:duration>1:37:47</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #177</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=177</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 01 Aug 2012 17:05:50 GMT</pubDate>
+			<description>RT keeps the hot hot and the cool cool</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/dt177edit.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">177</guid>
+			<itunes:duration>1:27:51</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, target, pregnancy, McDLT, nest, Bat Girl</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #176</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=176</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 Jul 2012 15:20:02 GMT</pubDate>
+			<description>RT had its beard trimmed. </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_176.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">176</guid>
+			<itunes:duration>1:32:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #175</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=175</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 Jul 2012 14:46:06 GMT</pubDate>
+			<description>RT is friends with Tom on Myspace</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/dt175edit2.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">175</guid>
+			<itunes:duration>2:09:02</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #174</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=174</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 11 Jul 2012 19:48:55 GMT</pubDate>
+			<description>RT shares their RTX panel and talks to Master Pancake Theater</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_174.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">174</guid>
+			<itunes:duration>2:04:44</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #173</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=173</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 Jul 2012 14:29:40 GMT</pubDate>
+			<description>RT teaches Gavin about space and time</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/dt173edit.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">173</guid>
+			<itunes:duration>1:39:24</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #172</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=172</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 27 Jun 2012 14:56:40 GMT</pubDate>
+			<description>RT provides more entertainment than Fergie covering Slash </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_172.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">172</guid>
+			<itunes:duration>1:26:07</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, handleabra, blip, Texas Rangers, Magic Mike, Attack of the Burnies</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #171</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=171</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 20 Jun 2012 14:48:01 GMT</pubDate>
+			<description>RT rises up and eats faces</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_171.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">171</guid>
+			<itunes:duration>1:27:00</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #170</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=170</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 14 Jun 2012 00:40:04 GMT</pubDate>
+			<description>RT goes deeper into Jacks beard</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_170.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">170</guid>
+			<itunes:duration>1:39:25</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, beardception, e3, lollipop chainsaw, Australasia, musth</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #169</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=169</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 07 Jun 2012 01:03:59 GMT</pubDate>
+			<description>RT watches ballerinas as they practice</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_169.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">169</guid>
+			<itunes:duration>1:33:27</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, E3, Ali Baker, Red Vs Blue Season 10, Jacks Beard</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #168</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=168</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 May 2012 18:26:49 GMT</pubDate>
+			<description>RT celebrates Tequila Tuesday for your Wednesday enjoyment!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_168.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">168</guid>
+			<itunes:duration>1:34:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, Republic Tequila, RTX, John Thomas, British, Drinking Games, RvB Season 10</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #167</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=167</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 May 2012 19:00:30 GMT</pubDate>
+			<description>RT ditched their dates by the water slides</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_167.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">167</guid>
+			<itunes:duration>1:41:16</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, water, park, summer, girlfriend, bye bye birdie, Lindsay Lohan, Clerks 2</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #166</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=166</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 May 2012 15:56:35 GMT</pubDate>
+			<description>RT does not condone the improper use of quotes</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_166.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">166</guid>
+			<itunes:duration>1:28:19</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, quotes, smash, robots, Tesla, far lands, binary</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #165</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=165</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 May 2012 17:17:32 GMT</pubDate>
+			<description>RT left their contact lens on the Voyager</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_165.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">165</guid>
+			<itunes:duration>1:36:26</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #164</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=164</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 May 2012 17:32:48 GMT</pubDate>
+			<description>RT learns the dangers of mixing boy bands, koalas, and Joel together in one podcast</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_164.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">164</guid>
+			<itunes:duration>1:47:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, koalas, chlamydia, half beard, dragon age, funimation</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #163</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=163</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 Apr 2012 15:09:42 GMT</pubDate>
+			<description>RT is amazed by young Gavin and flying fruit</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_163.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">163</guid>
+			<itunes:duration>1:36:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, siri, angry birds, caboose, Tex</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #162</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=162</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 Apr 2012 23:50:22 GMT</pubDate>
+			<description>RT talks gross ears and inuries</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_162.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">162</guid>
+			<itunes:duration>1:33:35</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, soundboard, mike tyson, injuries, ear, wax</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #161</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=161</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 11 Apr 2012 21:34:07 GMT</pubDate>
+			<description>RT talks PAXEast</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_161_1.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">161</guid>
+			<itunes:duration>1:39:26</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, PAXEast, Bioware, Old Republic</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #160</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=160</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 Apr 2012 22:37:27 GMT</pubDate>
+			<description>RT has a ruined childhood </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_160.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">160</guid>
+			<itunes:duration>2:08:20</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, 2001 Space Odyssey, Technology, Future </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #159</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=159</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Mar 2012 22:57:56 GMT</pubDate>
+			<description>RT has died of dysentery</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_159.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">159</guid>
+			<itunes:duration>1:33:41</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, dysentery, games, Britsh, science </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #158</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=158</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Mar 2012 23:14:43 GMT</pubDate>
+			<description>RT cannot escape the balls of Gavin</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_158.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">158</guid>
+			<itunes:duration>1:36:42</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, video games, Prometheus, commercials</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #157</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=157</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Mar 2012 20:58:11 GMT</pubDate>
+			<description>RT Talks Science and Internet Stuff</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_157.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">157</guid>
+			<itunes:duration>1:37:29</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, strangedunc, gavin, headlight fluid, left 4 dead, burnie, adam sandler, royal family, taxes, iroc, commonwealth of nations, cctv, prison, death penalty, trials evolution, faith, headphones, improv everywh</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #156</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=156</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Mar 2012 22:11:02 GMT</pubDate>
+			<description>RT talks fights</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_156.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">156</guid>
+			<itunes:duration>1:23:19</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #155</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=155</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Feb 2012 22:21:58 GMT</pubDate>
+			<description>RT gets hairy and fairy </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_155.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">155</guid>
+			<itunes:duration>1:32:38</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #154</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=154</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 22 Feb 2012 21:44:40 GMT</pubDate>
+			<description>RT loves sloths</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_154.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">154</guid>
+			<itunes:duration>1:02:15</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #153</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=153</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Feb 2012 22:33:22 GMT</pubDate>
+			<description>RT welcomes back Gavin</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_153.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">153</guid>
+			<itunes:duration>1:24:09</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #152</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=152</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Feb 2012 21:42:00 GMT</pubDate>
+			<description>RT barely talks about the Super Bowl </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_152.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">152</guid>
+			<itunes:duration>1:16:26</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #151</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=151</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 02 Feb 2012 00:22:10 GMT</pubDate>
+			<description>RT will make you never look at dolphins the same way again </description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_151.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">151</guid>
+			<itunes:duration>1:33:18</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, RT Podcast, machinima, dolphins, accidents</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #150</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=150</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 Jan 2012 21:20:29 GMT</pubDate>
+			<description>RT gets strangely political</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_150.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">150</guid>
+			<itunes:duration>1:30:55</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, 2daysofwar56, superbowl is gay, kermit, muppets, ray, bass clef, blade, megaupoad, tom vu, petronas towers, kim dotcom, kimble, sopa, pipa, pcipa, lamar smith, obama, gary hart, paula poundstone, gary con</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #149</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=149</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 Jan 2012 15:08:14 GMT</pubDate>
+			<description>RT Podcast gets a sponsor</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_149.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">149</guid>
+			<itunes:duration>1:24:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, audible, reddit, iawtv, kevin pollack, rick fox, vivica fox, jeff macke, freddiew, felicia day, big short, boomerang, crash proof, too big to fail, steve jobs, npr, marketplace, spy game, goldschlager, si</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #148</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=148</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 11 Jan 2012 20:12:28 GMT</pubDate>
+			<description>RT is wild about animals and Star Trek</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_148.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">148</guid>
+			<itunes:duration>1:11:29</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, superkao, top posts, mistersir, autagonistophilia, 419, fallout, interplay, mmo, mehrunes, second chances, parallels, next generation, star trek, javier bardem, khan, small wonder, barclay, the inner ligh</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #147</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=147</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 Jan 2012 21:57:13 GMT</pubDate>
+			<description>Rooster Teeth welcomes 2012 with Jayordan</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_147.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">147</guid>
+			<itunes:duration>1:27:36</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, jordan, little woodrows, lawnmower, michelada, hyde park bar and grill, itunes, mile high achievement, lamberts, insert coin clothing, samoa, antipodes, earth, billiard ball, plane collision, quantum levi</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #146</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=146</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Dec 2011 22:10:06 GMT</pubDate>
+			<description>Rooster Teeth Ends 2011</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_146.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">146</guid>
+			<itunes:duration>1:11:08</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, organezized, gamefails, monty, live prude girls, niagara falls, devils cove, breaking bad, helen mirren, fair game, brotherhood of the wolf, 300, avenger, ocean marketting, kotaku, steroids, scientology, </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #145</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=145</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Dec 2011 21:18:52 GMT</pubDate>
+			<description>Rooster Teeth is now afraid of fish</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_145.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">145</guid>
+			<itunes:duration>1:06:59</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, littledogs13, the guild, legend of neil, 5 minute comedy hour, live prude girls, good neighbor, cat, window, defenestration, duke, tip, mcse, armadillo aerospace, masters of doom, david kushner, steve job</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #144</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=144</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Dec 2011 22:25:03 GMT</pubDate>
+			<description>Rooster Teeth announces 2011 awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_144.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">144</guid>
+			<itunes:duration>1:19:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, violet fuse, rvb 9 soundtrack, bees, michael young, louis ck, hoarders, wally wally world, mr chi city, rollin with zach, funny people, harry potter, tony hawk, crimson alliance, kohls, friday, drugs, aic</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #143</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=143</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Dec 2011 18:16:58 GMT</pubDate>
+			<description>Rooster Teeth talks 2011 awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_143.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">143</guid>
+			<itunes:duration>1:27:21</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #142</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=142</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 Nov 2011 21:53:03 GMT</pubDate>
+			<description>RT does not like fish</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_142.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">142</guid>
+			<itunes:duration>1:19:02</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, queen, recap, goldfish, tilapia, mahi mahi, sushi, whitebait, volt, louie, louis ck, pootie tang, epicaricacy, wayne gould, sudoku, king of kong, hank chien, amazon, skyrim, gamefails, things to do in, cr</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #141</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=141</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Nov 2011 22:07:24 GMT</pubDate>
+			<description>RT discusses food poisoning</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_141.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">141</guid>
+			<itunes:duration>1:31:29</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, past cast, emily hagins, itunes, novotel, frank darabont, mma, million dollar man, kamala, jason segel, andre the giant, reddit, ama, cannibals, mexico, mlb, kidnap, unemployment, border violence, orange </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #140</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=140</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Nov 2011 22:43:32 GMT</pubDate>
+			<description>Rooster Teeth is segmented with guests</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_140.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">140</guid>
+			<itunes:duration>1:30:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, thebestburne, certain affinity, volition, full sail, guild hall, high noon, battle canyon, halo anniversary, grd dolls, xbox, doa4, duke, childs play, crimson alliance, rick perry, parlay, nba, gao, fed, </itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #139</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=139</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Nov 2011 21:06:19 GMT</pubDate>
+			<description>Rooster Teeth talks about New Zealand</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_139.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">139</guid>
+			<itunes:duration>56:36</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #138</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=138</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Nov 2011 22:08:14 GMT</pubDate>
+			<description>Rooster Teeth talks about London</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_138.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">138</guid>
+			<itunes:duration>51:54</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #137</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=137</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 Oct 2011 15:54:21 GMT</pubDate>
+			<description>Rooster Teeth talks Old Republic</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_137.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">137</guid>
+			<itunes:duration>51:49</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, old republic, willow, smuggler, trooper, jedi knight, flashpoint, allegiances, planets, allies and adversaries, drunk tanks, warzones, huttball, t7o1, companions,, collectors edition, beta, music, wilhelm</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #136</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=136</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 19 Oct 2011 22:00:06 GMT</pubDate>
+			<description>Rooster Teeth talks about New York</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_136.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">136</guid>
+			<itunes:duration>59:43</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mistersir, captain america, yip yips, plushtache, blawndee, halo, kinect, horse, magnetic pole, the core, arm wrestling, mcdonalds, stray dogs, moscow, i am the machine, events</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #135</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=135</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Oct 2011 12:35:53 GMT</pubDate>
+			<description>Rooster Teeth is watching you poop</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_135.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">135</guid>
+			<itunes:duration>57:58</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, paula abdul, orient, steve jobs, google, eric schmidt, thunderbolt, lg, chocolate, telephone exchange, texas, qcp 2700, bhut jolokia, trinidad scorpion, scoville, new york comic con, macworld, pippin, sim</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #134</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=134</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 Oct 2011 21:52:39 GMT</pubDate>
+			<description>Rooster Teeth Podcast is concerned about time travel and aliens</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_134.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">134</guid>
+			<itunes:duration>1:23:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, iphone, magnets, full sail, discover card, pinballz, barcade, ze frank, thundercloud, mr gattis, stranger, wonder years, abracadabra, double slit, reiki, march of dimes, police, 911, neutrinos, water, new</itunes:keywords>
+			</item>
+			<item>
+			<title>RT Podcast #133</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=133</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Sep 2011 21:42:53 GMT</pubDate>
+			<description>Rooster Teeth dishes behind the scenes dirt</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Rooster_Teeth_Podcast_133.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">133</guid>
+			<itunes:duration>1:04:16</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #132</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=132</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Sep 2011 21:42:28 GMT</pubDate>
+			<description>Rooster Teeth is almost done crunching</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_132.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">132</guid>
+			<itunes:duration>1:07:35</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, twilight zone, youtube, nudity, lederhosen, alexander the great, static, electricity, 2 player productions, mojang, minecraft, enderman, beer belly, pirate party, boa, warren buffett, gold atm</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #131</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=131</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Sep 2011 22:41:48 GMT</pubDate>
+			<description>Rooster Teeth is segmented</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_131.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">131</guid>
+			<itunes:duration>1:31:31</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #130</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=130</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Sep 2011 23:19:19 GMT</pubDate>
+			<description>Rooster Teeth buys a vowel</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_130.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">130</guid>
+			<itunes:duration>58:51</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #129</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=129</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 31 Aug 2011 21:24:31 GMT</pubDate>
+			<description>Rooster Teeth talks about events</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_129.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">129</guid>
+			<itunes:duration>41:01</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #128</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=128</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 24 Aug 2011 20:49:58 GMT</pubDate>
+			<description>Rooster Teeth is preparing for events</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_128.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">128</guid>
+			<itunes:duration>40:41</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mike jones, deus ex, rage quit, childish gambino, earthquake, xkcd, new madrid, kate winslet, lamborghini, sweet kitty, old republic, midnight rodeo</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #127</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=127</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Aug 2011 21:54:30 GMT</pubDate>
+			<description>Rooster Teeth talks Gamescom</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_127.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">127</guid>
+			<itunes:duration>39:43</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, steel battallion, lollipop chainsaw, onechanbara, the old republic, bf3, dota 2, pax, brony, igor cat, kittywood, pinky, time warped, cry baby lane, ps3 price drop, catherine, rapunzel</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #126</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=126</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Aug 2011 21:26:36 GMT</pubDate>
+			<description>Rooster Teeth is going under</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_126.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">126</guid>
+			<itunes:duration>40:44</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, journey, double gold, fruit ninja, battle jacket, catherine, drunk people, masturbation, master pancake</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #125</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=125</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 03 Aug 2011 22:40:21 GMT</pubDate>
+			<description>Rooster Teeth has the replacements</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_125.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">125</guid>
+			<itunes:duration>38:03</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #124</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=124</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 27 Jul 2011 22:17:44 GMT</pubDate>
+			<description>Rooster Teeth remembers Comic Con</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_124.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">124</guid>
+			<itunes:duration>1:33:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, naruto, unabomber, tylenol, viktor yushchenko, alexander litvinenko, ichthys, bill watterson, professor challenger, always, duel, sunshine, blue starlit, chain reaction, alone in the dark, tara reid, tara</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #123</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=123</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 20 Jul 2011 21:45:41 GMT</pubDate>
+			<description>Rooster Teeth is gaming focused</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_123.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">123</guid>
+			<itunes:duration>1:02:20</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, human beat box, fat boys, gordon ramsay, jack patillo, ravenadonis, civet, spiderman, casino el camino, cowboys and aliens, dark knight rises, amazing spiderman, harry potter, mcgarnagle, call of juarez, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #122</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=122</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Jul 2011 22:34:12 GMT</pubDate>
+			<description>Rooster Teeth fails</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_122.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">122</guid>
+			<itunes:duration>1:16:05</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, ben heck, drafthouse, kwierso, billy joel, christi brinkley, angie everhart, rachel hunter, seinfeld, zookeeper, friends, netflix, dead rising 2, jack and jill, adam sandler, mall cops, rufio, larry crown</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #121</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=121</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 06 Jul 2011 22:15:17 GMT</pubDate>
+			<description>Rooster Teeth is furry</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_121.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">121</guid>
+			<itunes:duration>56:56</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, furries, mr ed, teen wolf, portal, fanime, cosplay, botox, shit burger, old world blues, galaxies, justin timberlake, myspace, burger king, directv, sprite, lost, bmw, friday, tommy cooper, transformers 3</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #120</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=120</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Jun 2011 12:56:04 GMT</pubDate>
+			<description>Rooster Teeth talks about books</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_120.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">120</guid>
+			<itunes:duration>1:25:56</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #119</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=119</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 22 Jun 2011 17:49:18 GMT</pubDate>
+			<description>Rooster Teeth talks about snakes</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_119.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">119</guid>
+			<itunes:duration>59:46</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, indestructible phone, RROD, ios 5, wiiu, new vegas, mortal kombat, slow mo guys, bitcoin, rattlesnake, python, face transplant, chimpanzee, star trek, tarantula hawk, ant parasite</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #118</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=118</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Jun 2011 21:50:36 GMT</pubDate>
+			<description>Rooster Teeth wraps up E3</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_118.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">118</guid>
+			<itunes:duration>1:17:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, craps, uchi, cloak and dagger, san antonio, turks and caicos, batman, ps vita, att, ea, steam, e3, mega64, booth babe, need for speed, rvb9, dwango5, therealcliffyb, hat creek, number 19, jack, imf, chick</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #117</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=117</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Jun 2011 20:46:04 GMT</pubDate>
+			<description>Rooster Teeth wake up I need you</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_117.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">117</guid>
+			<itunes:duration>1:00:16</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, halo, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #116</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=116</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 01 Jun 2011 22:41:59 GMT</pubDate>
+			<description>Rooster Teeth is RTXhausted</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_116.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">116</guid>
+			<itunes:duration>1:04:02</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, belarus, debt, interplay, descent, the cooler, los angeles, dead rising 2, rtx, dirty pool, foamy the squirrel</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #115</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=115</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 May 2011 17:56:38 GMT</pubDate>
+			<description>Rooster Teeth performs a quick change</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_115.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">115</guid>
+			<itunes:duration>59:52</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, portal 2, fullers esb, climate change, iowa, green pastures, irish car bomb, wlaf, usfl, cassowary, alpaca, golf cart, curandera, violet crown cinema, 3d lens, american idol, emmy rossum, sofia vergara, r</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #114</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=114</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 May 2011 22:14:22 GMT</pubDate>
+			<description>Rooster Teeth is joined by Ben</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_114.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">114</guid>
+			<itunes:duration>1:00:18</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, vitos chop house, habana, arnold schwarzenegger, ashton kutcher, illusive man, psn, xbl, ffvii, ps3, 3ds, iphone, chrome, simpsons, liberty bar, johnny carson, will smith, miramax, youtube, hackers</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #113</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=113</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 11 May 2011 20:19:58 GMT</pubDate>
+			<description>Rooster Teeth fights animals</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_113.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">113</guid>
+			<itunes:duration>1:02:46</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #112</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=112</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 May 2011 23:07:19 GMT</pubDate>
+			<description>Rooster Teeth is 2Bs and 2Gs</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_112.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">112</guid>
+			<itunes:duration>1:35:24</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, teddyj, brandon, butt, raw image, rain run, stolen camera, iphone, osama bin laden, four square, please rob me, aarons rental, adult baby, rex ryan, kiss simulator, mobile babes, proving ground, far side,</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #111</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=111</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 27 Apr 2011 20:59:40 GMT</pubDate>
+			<description>Rooster Teeth is speculating</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_111.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">111</guid>
+			<itunes:duration>1:16:32</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #110</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=110</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 20 Apr 2011 21:19:24 GMT</pubDate>
+			<description>Rooster Teeth is flashing truckers</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_110.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">110</guid>
+			<itunes:duration>1:07:58</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, gym, army, ntc, jayordan, elaine, seinfeld, geekdesk, core, leslie, blade runner, katrina bowden, burlesque, autoharp, elizabeth taylor, slowmoguys, arm wrestler, left 4 dead, hey guys</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #109</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=109</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Apr 2011 20:47:53 GMT</pubDate>
+			<description>Rooster Teeth is re-assigned</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_109.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">109</guid>
+			<itunes:duration>1:03:43</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, hellshanks, locksmith, charge, f1, a380, bouncy castle, portal 2, skynet, moonlighting, delta p, massage, flip, milk desk, faces, fright night, wonder woman, urologist, charlie sheen, tom hanks, chet haze</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #108</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=108</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 06 Apr 2011 22:26:28 GMT</pubDate>
+			<description>Rooster Teeth is Super</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_108.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">108</guid>
+			<itunes:duration>1:43:03</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, left 4 dead, beefcake, waffles, roadrunner, secret wars, chris roberson, superman, batman, kill bill, kingdom come, crisis on infinite earths, legion of super heroes, great darkness saga, teen titans juda</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #107</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=107</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 31 Mar 2011 01:30:55 GMT</pubDate>
+			<description>Rooster Teeth battles a video podcast</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_107.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">107</guid>
+			<itunes:duration>1:07:46</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, rebecca black, ark music, rvb, angry birds, youtube, vocal chords, an experiment, jessi slaughter, color, word lens, kinect, johnny chung lee, end of america, mongolia, ricky gervais, gmail, pinballz, pax</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #106</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=106</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Mar 2011 21:32:54 GMT</pubDate>
+			<description>Rooster Teeth Rage Quits</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_106.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">106</guid>
+			<itunes:duration>1:01:58</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, rage quit, mega64, thunderbolt, threadgills, dog and duck, mama fus, pagliacci, duke nukem, elizabeth taylor, china, detroit, centralia, iran, north korea, bin laden, mass effect 2, 343, megacon, hobbit, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #105</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=105</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Mar 2011 20:33:06 GMT</pubDate>
+			<description>Rooster Teeth Recaps PAX East</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_105.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">105</guid>
+			<itunes:duration>40:48</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, hatebreed, pax, vogue, dramatics, red faction, pepsi, license plate, a55 rgy, battlefield 3, tsunami, kratos, mortal kombat</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #104</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=104</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Mar 2011 18:12:08 GMT</pubDate>
+			<description>Rooster Teeth is jet lagged</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_104.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">104</guid>
+			<itunes:duration>44:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #103</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=103</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Mar 2011 18:35:27 GMT</pubDate>
+			<description>Rooster Teeth fights for an hour</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_103.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">103</guid>
+			<itunes:duration>1:08:33</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #102</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=102</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Feb 2011 21:26:47 GMT</pubDate>
+			<description>The Rooster Teeth is movie themed this week.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_102.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">102</guid>
+			<itunes:duration>1:03:36</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #101</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=101</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Feb 2011 17:54:40 GMT</pubDate>
+			<description>Rooster Teeth is joined by Matt</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_101.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">101</guid>
+			<itunes:duration>1:19:49</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #100</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=100</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Feb 2011 16:08:21 GMT</pubDate>
+			<description>Rooster Teeth in video form</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_100.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">100</guid>
+			<itunes:duration>32:34</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, video podcast, mikeylhd, stevie wonder, cosby show, will ferrell, the office, ricky gervais, drunk tank animated adventure, jayordan, steven tyler, american idol, anderson cooper, the mole, freedom, richa</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #99</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=99</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Feb 2011 22:12:39 GMT</pubDate>
+			<description>Rooster Teeth has work to do</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_99.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">99</guid>
+			<itunes:duration>51:20</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, picture perfect, sex dogs, facebook, cityville, goldman sachs, girl scouts, boy scouts, halocraft, little big planet 2, zelda, james cameron</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #98</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=98</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 Jan 2011 22:27:35 GMT</pubDate>
+			<description>Rooster Teeth has a walk in</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_98.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">98</guid>
+			<itunes:duration>1:19:22</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mike77, inside out shirt, chevy cruze, esperanto, internet time, chocolate fountain, whole foods, bellagio, 420 science, fitbit, taco bell, food printer, algae bloom, academy awards, millie, cheetara, tok</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #97</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=97</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 19 Jan 2011 21:48:03 GMT</pubDate>
+			<description>Rooster Teeth is gaming heavy</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_97.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">97</guid>
+			<itunes:duration>1:04:42</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, wow, treadmill, dead space 2, portal 2, ps3, andy williams, little big planet, minecraft, mass effect 3, 3ds, elephant, whale shark, street shark, australia, brisbane, trekkies, hopdoddy, second bar, comi</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #96</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=96</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Jan 2011 22:16:39 GMT</pubDate>
+			<description>Rooster Teeth recovers for the new year</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_96.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">96</guid>
+			<itunes:duration>1:15:39</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, patent cube, kinect, l4d, ty burrell, arianna huffington, colonoscopy, dolphin sex, bonsai kitten, itunes, diamond, comics, thor, john cho, ricky gervais, cataclysm, bungie, modern warfare, peta, cooking </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #95</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=95</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 Jan 2011 22:14:33 GMT</pubDate>
+			<description>Rooster Teeth announced awards</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_95.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">95</guid>
+			<itunes:duration>1:13:37</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, girl talk, quincy, jerry orbach, wesley willis, ibex, flower warfare, freddiew, arclight, exit through the gift shop, catfish, pxl 2000, fable 3, tmz, digital domain, gem, modern family, cataclysm, halo r</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #94</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=94</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Dec 2010 22:00:11 GMT</pubDate>
+			<description>Rooster Teeth Delays</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_94.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">94</guid>
+			<itunes:duration>45:49</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, evasothowed, universal life church, drunk tanks, hand grenade, 500 days of weezy, alien fleshlight, hilary swank, amelia, kesha, moocow, blawndee, 50 cent, beenerkeekee19952, pruane2forever, love is, trip</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #93</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=93</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 22 Dec 2010 17:43:37 GMT</pubDate>
+			<description>Rooster Teeth Awards 2010 Nominations</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_93.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">93</guid>
+			<itunes:duration>1:06:13</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #92</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=92</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Dec 2010 22:31:36 GMT</pubDate>
+			<description>Rooster Teeth never gets to the point</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_92.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">92</guid>
+			<itunes:duration>1:26:40</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mega64, evil dead 2, radiation, iphone, driving, eliza dushku, vga, uncharted 3, mass effect 3, penis, fogo de chao, x10, purses, hobo with a shotgun, fleshlight, scarlett johansson, tuskens</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #91</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=91</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Dec 2010 21:56:03 GMT</pubDate>
+			<description>Rooster Teeth is jazzed about Cataclysm</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_91.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">91</guid>
+			<itunes:duration>1:30:09</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, tron, nsync, george lucas, laurence olivier, wow, cataclysm, dark age of camelot, e12, e1, achievement horse, xbox live rewards, operation mincemeat, operation bernhard, don meredith, howard cosell, john </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #90</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=90</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 01 Dec 2010 19:49:43 GMT</pubDate>
+			<description>Rooster Teeth is fixing hard drives</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_90.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">90</guid>
+			<itunes:duration>39:18</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, sbk x, encyclopedia brown, chris farley, immersion, nasa, cruise passengers, leonardo dicaprio, kinect, move, Gran Turismo 5, Dogs Decoded, American Pie</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #89</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=89</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 24 Nov 2010 21:29:20 GMT</pubDate>
+			<description>Rooster Teeth gets heated for the holidays</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_89.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">89</guid>
+			<itunes:duration>1:10:56</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #88</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=88</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Nov 2010 20:47:48 GMT</pubDate>
+			<description>Rooster Teeth gets interrupted by Monty</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_88.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">88</guid>
+			<itunes:duration>41:25</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, taxes, beatles, itunes, jay z, monty python, girl talk, hulu plus, fable 3 dlc, new vegas dlc, carter, your highness, nazi scientists, ring of red, kinect, rvb revelation</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #87</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=87</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Nov 2010 20:12:31 GMT</pubDate>
+			<description>Burnie Griffon and Gus chat about crystals, pron and airplanes</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_87.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">87</guid>
+			<itunes:duration>1:19:07</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, man cold, allstate, and justice for all, drunk lawyer, rt shorts, facebook, rockmelt, netflix, kinect, penny arcade, carls jr, pron, charlie chpalin, 2038, 787, emergency landing, far side, switzerland</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #86</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=86</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 03 Nov 2010 20:23:25 GMT</pubDate>
+			<description>Rooster Teeth rides without Geoff</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_86.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">86</guid>
+			<itunes:duration>1:06:11</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, fails of the weak, w00tstock, molly lewis, paul and storm, lunchbox laboratory, burgermaster, firesheep, liberty, macbook air, fallout new vegas, gullivers travel, sherlock, hobbit, star wars, nasa, marfa</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #85</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=85</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 27 Oct 2010 22:12:14 GMT</pubDate>
+			<description>Rooster Teeth is here.  South Park is on TV</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_85.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">85</guid>
+			<itunes:duration>1:28:58</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #84</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=84</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 20 Oct 2010 21:55:20 GMT</pubDate>
+			<description>Rooster Teeth rolls with three dudes (what?)</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_84.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">84</guid>
+			<itunes:duration>1:13:14</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mazzy star, suicide, gene simmons, kiss kasket, blizzard authenticator, gold farmer, inflation, twitter, jetblue, net neutrality, espn, netflix, extra life, ONE, Bono, Something Awful, chamber of commerce</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #83</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=83</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Oct 2010 14:34:30 GMT</pubDate>
+			<description>Rooster Teeth loves games</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_83.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">83</guid>
+			<itunes:duration>1:28:03</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, housesitting, best buy, gift cards, waitrose, home depot, world of warcraft, cataclysm, taliban, medal of honor, laverne and shirley, kurt nilsen, club errera, halo reach, meteor, meteorite, angry german </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #82</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=82</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 06 Oct 2010 22:30:09 GMT</pubDate>
+			<description>Rooster Teeth has an abrupt start</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_82.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">82</guid>
+			<itunes:duration>1:19:33</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mensa, spider, microwave, calamine, adam curry, geto boys, alief, classmates, apple, rick sanchez, xbox live, lost, rooster teeth, keiji inafune</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #81</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=81</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Sep 2010 19:49:50 GMT</pubDate>
+			<description>Rooster Teeth demands lava cake</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_81.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">81</guid>
+			<itunes:duration>1:21:51</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #80</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=80</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 22 Sep 2010 13:45:18 GMT</pubDate>
+			<description>The Red vs Blue Revelation production team (Burnie, Matt, Monty and Kerry) host this weeks Rooster Teeth.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_80.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">80</guid>
+			<itunes:duration>1:05:28</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #79</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=79</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Sep 2010 21:05:23 GMT</pubDate>
+			<description>Gus, Matt, Joel, Griffon and sometimes Geoff drunk the tank.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_79.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">79</guid>
+			<itunes:duration>50:55</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #78</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=78</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Sep 2010 22:50:59 GMT</pubDate>
+			<description>Rooster Teeth leaves the office</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_78.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">78</guid>
+			<itunes:duration>56:24</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, hoovers, foreign and domestic, foursquare, pax, gus hair petition, benaroya hall, frag dude, alamo drafthouse, fantastic arcade, count3d, kat, mass effect 2, dead rising 2, revelation, caleb, jackass 3d, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #77</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=77</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 01 Sep 2010 19:36:53 GMT</pubDate>
+			<description>Rooster Teeth hates horses</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_77.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">77</guid>
+			<itunes:duration>50:23</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, mafia 2, jetblue, forced enjoyment, cabelas, take two, unicorns, red dead redemption, cribbing, james franco, in n out, five guys, holiday house, dobie theater, gal&#039;s panic, dead rising 2, pax</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #76</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=76</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 Aug 2010 21:09:16 GMT</pubDate>
+			<description>Rooster Teeth is joined by Jeskid</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_76.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">76</guid>
+			<itunes:duration>1:13:19</itunes:duration>
+			<itunes:keywords>rooster teeth, red vs blue, drunk tank, machinima, darkkrad14, fire, command and conquer, jeskid, registered trademark, bevo, makeoutclub, youtube, david after the dentist, facebook, the situation, jersey shore, Yahoo and Bing, Cyberball, Stephen Merchant</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #75</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=75</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 Aug 2010 22:39:48 GMT</pubDate>
+			<description>Rooster Teeth ends on a creepy note</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_75.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">75</guid>
+			<itunes:duration>1:31:52</itunes:duration>
+			<itunes:keywords>verizon, google, net neutrality, kick ass, scott pilgrim, avatar, team fortress 2, age of empires, windows 7 p hone, dmzilla, return of the jedi, darth vader, the other guys, bioshock infinite, skyline, stephen hawking, jetblue, antibiotics, canadians, bp</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #74</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=74</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 12 Aug 2010 00:06:01 GMT</pubDate>
+			<description>Rooster Teeth runs long and rambles</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_74.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">74</guid>
+			<itunes:duration>1:30:24</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, San Francisco worker goes to prison, dry erase board chick, jet blue flight attendant, gerard buckley finneran, al qaeda, medal of honor, black ops multiplayer, snopes, google chrome, mcnugget freakout, ispot, talking</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #73</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=73</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 Aug 2010 21:43:46 GMT</pubDate>
+			<description>Rooster Teeth is run by the three Gs</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_73.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">73</guid>
+			<itunes:duration>51:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Letters to Mantua, Morrie Yohai, Cheez Doodle, Bill Cosby, Naked Gus, Kempob, Rodin, Starcraft 2, Fable 3, Chickens, Oregon Trail, Yogi Bear, Halo 2600, Combat, Clear, Richard Garriott, Larissa Riquelme, Drunk Tank An</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #72</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=72</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Jul 2010 21:48:55 GMT</pubDate>
+			<description>Rooster Teeth is reunited and it feels so good</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_72.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">72</guid>
+			<itunes:duration>1:01:03</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Comic Con, Caleb, Halo Reach, BNL, The Other Guys, Daniel Dae Kim, Blake Lively, Ryan Reynolds, Joel McHale, Jessica Nigri, Achievement Hunter, Halo Reach Xbox 360, Forge World, Starcraft II, Fiddlestixx</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #71</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=71</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Jul 2010 17:15:16 GMT</pubDate>
+			<description>Rooster Teeth is drunk in San Diego.</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_71.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">71</guid>
+			<itunes:duration>37:14</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Comic Con, Thor, OS2, Warren Spector, Bacon is a Vegetable, Looking for Group, Caleb, Kesha, Arena Football, Hotel Lucia, Battlestar Galactica, The Shield, Incepcion, Mega64</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #70</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=70</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Jul 2010 21:31:31 GMT</pubDate>
+			<description>Rooster Teeth welcomes Geoff back</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_70.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">70</guid>
+			<itunes:duration>58:36</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Bungie Day, London Eye, Best of Bootie, Comic Con Panel, San Diego Dive Bars, RVBTO Guests, Achievement Hunter, Britney Spears, World Cup Final, Deuchars, Redbox, Envy, Gone Fishin, On Golden Pond, The Hax Life, Shang</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #69</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=69</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Jul 2010 22:43:46 GMT</pubDate>
+			<description>Rooster Teeth celebrates Bungie Day</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_69.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">69</guid>
+			<itunes:duration>39:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Bungie Day Video, Bungie Day, Halo Reach Falcon, Halogram, World Cup Simulations, Skirt Scandal, Larissa Riquelme, Crackdown 2 Map, Andres Escobar, Dunga fired as Brazil head coach, North Korean World Cup Defeat, Cros</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #68</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=68</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 Jun 2010 22:18:20 GMT</pubDate>
+			<description>Gus is bitter and holds down the fort</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_68.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">68</guid>
+			<itunes:duration>55:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Skate achievements, Transformice, Dead Rising 2 Delay, Firefight 2.0, Starcraft II Jets, North Korea Debt, iPhone 4 antenna issues, Nokia Mocks Apple, Number Munchers, Voyages of Ferdinand Magellan, New Old Spice Ad, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #67</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=67</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Jun 2010 22:36:21 GMT</pubDate>
+			<description>Rooster Teeth talks about stuff</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/Drunk_Tank_67.m4a" type="audio/mp4" />
+			<guid isPermaLink="false">67</guid>
+			<itunes:duration>51:26</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, krazyguy1313, enhanced podcasts, offside, Revelation episode 10, Burnie cot, new Xbox 360, Best Buy, vampire power, Jack spoils surprises, survey, Sigmund Freud, NCAA Football preseason rankings, Microsoft Cirque du S</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #66</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=66</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Jun 2010 12:05:59 GMT</pubDate>
+			<description>Rooster Teeth is pretty testosterone driven</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank66663.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">66</guid>
+			<itunes:duration>1:01:54</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Recothe2nd, Juan Pelota, wikileaks, Vespas, Halo 3 sales, Combat Evolved, episodic gaming, WoW, Starcraft II TV commercial, &quot;previously on Lost&quot; guy, Jeff Zucker, Craig Kilborn, Eva Amurri, Google Pac Man, Shay Maria,</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #65</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=65</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Jun 2010 23:14:57 GMT</pubDate>
+			<description>Rooster Teeth is all about E3 and the World Cup (and Kim Kardashian)</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank65114.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">65</guid>
+			<itunes:duration>1:02:03</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Adam Carolla Podcast, Rock Band 3, Mega 64, Dan Hsu, Andre 3000, Robin Williams playing Spore, Jamie Kennedy at E3 2007, Michael J Fox skit on SNL, Valve&#039;s E3 surprise, iPhone 4, Gizmodo banned from WWDC, Seinfeld, Mi</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #64</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=64</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Jun 2010 23:16:17 GMT</pubDate>
+			<description>Rooster Teeth is short handed till Burnie shows up</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank64385.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">64</guid>
+			<itunes:duration>1:07:20</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Deathbytoast, Duvel, Kreo, AHWU, Counter Strike killer, MMA killer, Barton Springs pool, Lambert&#039;s BBQ, Saving Face, Spillover, Hulu on the 360, New ATT data plans, Texas Stars hockey, Undercover, Alias, Patrick Stewa</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #63</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=63</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 May 2010 21:19:32 GMT</pubDate>
+			<description>Rooster Teeth is kind of angry and embarassing</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank63895.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">63</guid>
+			<itunes:duration>1:05:05</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, MikeLHD, Daruma, Lord Smashington, Alan Wake DLC, Target commercials, Lost, HBO on PSN, Its Always Sunny in Philadelphia, Mass Effect 2 DLC, Donkey Lady, F1 racing in Austin, Sim City, Rooster Feast, Blur TV ad, Splin</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #62</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=62</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 19 May 2010 22:45:28 GMT</pubDate>
+			<description>Rooster Teeth ends on a sour note</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank62639.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">62</guid>
+			<itunes:duration>1:16:02</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Jester dorm, Lost Blu ray, remote auction house for WoW, paint huffer mug shot, Amazon Prime, Cirque du Soleil, Blizzcon, convention centers, Blood Gulch Chronicles Bonus Disc, Quake Arenas, Rage, Bungie Aerospace, Bo</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #61</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=61</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 May 2010 20:05:33 GMT</pubDate>
+			<description>Rooster Teeth is rejoined by Griffon</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank61499.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">61</guid>
+			<itunes:duration>47:58</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Star Wars The Old Republic, AOL selling ICQ, PowWow, Cu-SeeMe, Little Big Planet 2, APB pricing, Halo Reach beta, 2K Sports, Dallas Braden, Kraft cheese, Will Ferrell, Rojo Johnson, Torchlight, RT Shorts, Futurama, Ro</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #60</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=60</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 May 2010 21:28:42 GMT</pubDate>
+			<description>Rooster Teeth is kinda chill and honestly all over the place this week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank60566.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">60</guid>
+			<itunes:duration>1:24:46</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Sarah Palin email hacker, Qrank, You Dont Know Jack, Starcraft 2 Mac beta, Facebook, The Motley Fool, Yahoo Finance, Yahoo Answers, Tecmo Super Bowl, Seau&#039;s, Comic Con, RvBTO, CanWest, Starcraft 2 release date, Rio Ri</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #59.5</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=59.5</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 05 May 2010 19:14:19 GMT</pubDate>
+			<description>Rooster Teeth is giving away a Halo Reach beta code</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank595672.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">59.5</guid>
+			<itunes:duration>17:18</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Halo Reach, friends and family,beta code</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #59</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=59</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Apr 2010 22:40:21 GMT</pubDate>
+			<description>Rooster Teeth is iron hard for Iron Man 2</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank59267.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">59</guid>
+			<itunes:duration>1:29:47</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, cass3lls, Geoff</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #58</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=58</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Apr 2010 22:33:37 GMT</pubDate>
+			<description>Rooster Teeth begins its second year</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank58993.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">58</guid>
+			<itunes:duration>1:30:53</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Vegas, compost, SunChips, Tour de Fat, Iceland, Halo Reach, Halo ODST, Dead Rising 2, WoW mounts, Celestial Steed, .orgasaurus, Uncharted 2 DLC, Crazy Taxi for XBLA, Bad Company 2 DLC, Monty&#039;s dancing girls, Left 4 De</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #57</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=57</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Apr 2010 22:35:09 GMT</pubDate>
+			<description>Rooster Teeth begins its second year</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank57134.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">57</guid>
+			<itunes:duration>1:23:32</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Pompaloose, Radiohead/Chopin, Chris Crocker, Marina Orlova, Hot for Words, Xorda, Scoville, South Park&#039;s 200th episode, Streamy Awards, iJustine, The Guild, Halo 2, Jeff Bezos, Google and Usenet, Weeeeee!, Princess, A</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #56</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=56</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Apr 2010 21:33:35 GMT</pubDate>
+			<description>Rooster Teeth welcomes Monty, the most enthusiastic guest ever</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank56448.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">56</guid>
+			<itunes:duration>1:05:45</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Zach Galifianakis, Monty Oum, Crysis 2, PAX thief, Immersion, pay TV, Anime Boston, Monty&#039;s girlfriend, Xbox 360 SKUs, iPad smash, liquor laws, Transmedia Producers, water allergies, Austin and recycling, garbage in t</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #55</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=55</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 31 Mar 2010 21:03:43 GMT</pubDate>
+			<description>Rooster Teeth is riding that post PAX high</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank55401.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">55</guid>
+			<itunes:duration>1:01:56</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, AI programming languages, Norovirus, Raiders of the Lost Ark, Fangamer, Mother, Japanese vampires, American Airlines, Mega64, Leslie Cochran, Eddie Murphy, Breach, Monday Night Combat, Hydro Thunder Hurricane, Sega, B</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #54</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=54</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 24 Mar 2010 19:04:31 GMT</pubDate>
+			<description>Rooster Teeth is sunburned</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank54842.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">54</guid>
+			<itunes:duration>43:50</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Your Mom&#039;s Burger Bar, WoW, Hat Creek, L4D, L4D2, AHWU, Old Man Murray, Streamy Awards, American Airlines, Austin MetroRail, fire truck hit by train, USB storage for the 360, Mass Effect 2 DLC</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #53</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=53</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Mar 2010 22:45:18 GMT</pubDate>
+			<description>Rooster Teeth is attacked by DMZilla</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank53881.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">53</guid>
+			<itunes:duration>1:20:33</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, DMZilla, SXSW, talking rain, Seattle Sounders, David Beckham, David Sills, Andy Gibb, Crackdown 2, Box Office Mojo, Avatar, Hubble 3D Imax, Kevin Pereira, Riddick, The Surrogates, Dead Frontier, High Impact Halo, Snoo</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #52</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=52</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Mar 2010 22:56:36 GMT</pubDate>
+			<description>Rooster Teeth battles illness</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank52416.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">52</guid>
+			<itunes:duration>1:13:37</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, cedar fever, tuberculosis rapper, GM Grimm, Funny or Die, Jimmy Carter, Final Fantasy XIV, Final Fantasy on iPhone, Dragon Warrior, Congo, MW2, No Russian Machinima, AHWU, Just Cause 2, Tron Legacy, God of War 3, vide</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #51</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=51</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 03 Mar 2010 23:19:12 GMT</pubDate>
+			<description>Rooster Teeth welcomes Burnie back</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank51434.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">51</guid>
+			<itunes:duration>1:31:03</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Necco Wafers, Circus Peanuts, Lucas, Bad Candy, Rhythmic Gymnastics, Chinese gymnasts, Michael Phelps, Curling, Skee Ball, Milliek Highball, HEB, Starcraft, Street Fighter, Infinity Ward, Sledgehammer, Smash Mouth, SN</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #50</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=50</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 24 Feb 2010 18:38:40 GMT</pubDate>
+			<description>Rooster Teeth is short staffed, but POWERFUL</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank50790.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">50</guid>
+			<itunes:duration>29:22</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, AvP, Grifball Expansion, Heavy Rain, Old School BBQ, Las Vegas airport, Louisiana drinking age, nachos, Bioshock 2, Sahara, Jim Jarmusch</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #49</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=49</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Feb 2010 21:59:51 GMT</pubDate>
+			<description>Rooster Teeth recaps X10</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank49512.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">49</guid>
+			<itunes:duration>1:03:19</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Resident Evil 5, Lost, Jeff Jensen, Criterion, Need for Speed, Left 4 Dead 2, The Passing, X10, Halo Reach, Dead Rising 2, David Goldfarb, Dungeon Keeper 3, Xbox Live Game Room, Fallout New Vegas, Mattel Puppy Tweets,</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #48</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=48</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Feb 2010 20:03:55 GMT</pubDate>
+			<description>Rooster Teeth misses Burnie</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank48924.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">48</guid>
+			<itunes:duration>53:56</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Lost, Boxee, Laser Keyboards, Pipe Dream, I Am Alive, Battlefield 1943, Final Fantasy VII, Duality, Xbox Live, Halo 2, Australia, porn, The Invention of Lying, Game Time with Greg and EDave, Riley, Garth and Kat, Rahm</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #47</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=47</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 03 Feb 2010 21:17:29 GMT</pubDate>
+			<description>Rooster Teeth is Lost crazy</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank47523.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">47</guid>
+			<itunes:duration>52:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, theboiwonder, Texas license plates, Mass Effect 2, Star Control 2, Nolan North, Keith David, Tex Avery, Dante&#039;s Inferno, PAX East, MLB 2K10, Twin Galaxies, NBA Live 07, Tiger Woods 06, College Humor, Shark lifespans, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #46</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=46</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 27 Jan 2010 18:50:28 GMT</pubDate>
+			<description>Rooster Teeth is short because of RvB production</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank46433.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">46</guid>
+			<itunes:duration>35:07</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Jamaica Blue Mountain Coffee, Half Life 2 Episode 3, Duke Nukem 3D, Respawn radio, Korea and virtual currency, robots killing people, Pac Man and Tracy Porter, Fox News and Mass Effect, Brandon, Halo for Haiti, halo.b</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #45</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=45</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 20 Jan 2010 19:14:06 GMT</pubDate>
+			<description>Rooster Teeth gets worked up about late night television</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank45606.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">45</guid>
+			<itunes:duration>1:32:50</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Dana Carvey, Groundlings, Seth Meyers, Jody Hill, WoW Armory, Oscars, Senor Spielbergo, George Lucas, James Cameron, Jay Leno, Conan O&#039;Brien, Johnny Carson, David Letterman, Tonight Show, Zachary Levi, Richard Pryor, </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #44</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=44</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 13 Jan 2010 22:20:50 GMT</pubDate>
+			<description>Rooster Teeth ends the cease fire with Jack</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank44636.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">44</guid>
+			<itunes:duration>1:23:37</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, letting the police get you drunk, Mark McGwire, Ochocinco, Hachigo, Taco Bill, Colt McCoy, Spider Man 4, Superman 4, CopOut, A Team, Jimmy Kimmel, Jay Leno, Conan O&#039;Brien, Top Xbox games of 2009, end end of game endin</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #43</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=43</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 06 Jan 2010 21:15:46 GMT</pubDate>
+			<description>Rooster Teeth sobers up to the new year</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank43666.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">43</guid>
+			<itunes:duration>1:00:01</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, be mean to Jack, Bayonetta, PAX, NBA Live, Empire State Building, Naked Gus, Book of Eli, Ubu, 8 bit left 4 dead, The Cell, Sprint, Verizon, WoW, Avatar, China, Titanic, Inception, Modern Warfare 2, Thorium, Kim Karda</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #42</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=42</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 Dec 2009 21:26:58 GMT</pubDate>
+			<description>Rooster Teeth is ready to drink this year to a close</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank42734.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">42</guid>
+			<itunes:duration>1:04:50</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Tony Hawk Ride, Be nice to Jack, Theskittz, Janet Napolitano, American Airlines, The Old Miami, Jasper Schuringa, Angie Everhart, Islay Scotch, Drunk Tank Awards, Seinfeld, Half Life 2 on Project Natal, Borderlands DL</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #41</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=41</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Dec 2009 23:06:00 GMT</pubDate>
+			<description>Rooster Teeth is ready for the holidays</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank41402.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">41</guid>
+			<itunes:duration>1:03:14</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, mentally calculating dates, memorizing pi, Dr. Koop, Jocelyn Elders, masturbation, Washington Generals, CityCenter, USB 3.0, G-Raid, There Will Be Blood, IMAX Experience, twitter activism, Saints vs Redskins, Army Cor</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #40</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=40</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 17 Dec 2009 00:11:36 GMT</pubDate>
+			<description>Rooster Teeth wants its two front teeth for Christmas</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank40716.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">40</guid>
+			<itunes:duration>1:10:53</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, stuff, no idea, no Gus, this sucks, boobs</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #39</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=39</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Dec 2009 15:40:32 GMT</pubDate>
+			<description>Rooster Teeth is short and not so sweet</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank39225.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">39</guid>
+			<itunes:duration>53:46</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Tim Tebow, Big Lebowski, corrupt refs in the NBA, Christian Slater, stormy weather, Child&#039;s Play, Lost Chessboard Promo, Santos L Halper, Wes Anderson, Finding Forrester, Broken Arrow</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #38</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=38</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Dec 2009 11:21:53 GMT</pubDate>
+			<description>Rooster Teeth is up early and needs coffee</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank38126.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">38</guid>
+			<itunes:duration>1:36:54</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, DigitalPh33r, cooking oil, paint, Todd Holland, Walton Goggins, Diedrich Bader, James Franco, General Hospital, Iron Man 2, Jon Favreau, Girlfriend Experience, Tales of Vesperia, Ratatouille, WoW, Datel suing Microsof</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #37</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=37</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 25 Nov 2009 15:39:10 GMT</pubDate>
+			<description>Rooster Teeth gets seriously pissed off</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank37381.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">37</guid>
+			<itunes:duration>1:40:28</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, road runners, Fark and USA Today, Sony&#039;s profitability, podcast patents, jailbroken iPhones, Nokia suing Apple, Tivo suing people, ICANN and non Latin characters, Lazy Cats, Xbox Live Lawsuit, Left 4 Dead 2 achievemen</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #36</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=36</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 18 Nov 2009 22:28:14 GMT</pubDate>
+			<description>Rooster Teeth abides</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank36446.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">36</guid>
+			<itunes:duration>1:11:03</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Comcast buying NBC, Cats that Look Like Hitler, Stuff on my cat, blogs to books, mad catz, zombie fights shark, xbl top ten, mw2 boycott fail, twin galaxies, red ring of nintendo, laser blast, king of kong, borderland</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #35</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=35</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 11 Nov 2009 22:25:15 GMT</pubDate>
+			<description>Rooster Teeth Never Broke Up</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank35879.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">35</guid>
+			<itunes:duration>1:25:16</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Millie&#039;s drawings, EA Layoffs, Brutal Legend Lawsuit, Medal of Honor, Star Trek Online, New Xbox 360 Wireless Adapter, Taco Bell Blckjack, Sammy Sosa, JengaJam, Strippers and Counter Strike, Joe Theismann, Pop Warner,</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #34</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=34</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 04 Nov 2009 23:32:15 GMT</pubDate>
+			<description>Rooster Teeth is actually good for once</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank34159.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">34</guid>
+			<itunes:duration>1:27:57</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, schmoe, kidnappings, precious poodles, al capone, Avatar, movie trailers, Old Spice, video game marketing, Tim League, Alamo Drafthouse, Ann Richards, Ask a Ninja, xkcd, SAG, WoW in China, cheap Xboxes, hacked iPhones</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #33</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=33</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 28 Oct 2009 20:45:09 GMT</pubDate>
+			<description>Rooster Teeth meets Griffon</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank33890.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">33</guid>
+			<itunes:duration>1:04:02</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, L4D2 avatar awards, Twisted Pixel, L4D2 commercial, Guttermouth, Powermat, Microsoft and Family Guy, Netflix on the PS3, Sky Player on the Xbox 360, Facebook&#039;s servers, Monkeybone, Narbacular Drop, Garbage Day, Stinky</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #32</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=32</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 21 Oct 2009 19:04:45 GMT</pubDate>
+			<description>Rooster Teeth loves Japanese game shows</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank32745.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">32</guid>
+			<itunes:duration>1:26:17</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Girl Talk, Talking Rain, Youth in Revolt, Saw game, Netflix and the death of the DVD, creating your own stamps, Michael Vick dog jersey, Ron Mexico jersey, Leno</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #31</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=31</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 14 Oct 2009 19:46:19 GMT</pubDate>
+			<description>Rooster Teeth goes crazy with plugs and making fun of Jack</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank31822.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">31</guid>
+			<itunes:duration>50:31</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Danger/Sidekick outage, Saw achievements, Onyxia wipe animation, Modern Warfare 2 E3 Demo, Grindhouse at Comic Con 07, Theboiwonder, White Phosphorous, Jack&#039;s creepy journal, Whoopi GOldberg, Game On Austin, Paranorma</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #30</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=30</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 07 Oct 2009 16:17:12 GMT</pubDate>
+			<description>Rooster Teeth is running low on headlight fluid</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank30916.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">30</guid>
+			<itunes:duration>1:24:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, FTC policing bloggers, South Park&#039;s new game, Lucidity, Zombie infection simulators, Left 4k Dead, Doodle Jump, Flight Control, Left 4 Dead Drunk Tank, Halo 3 ODST Firefight Drunk Tank, Comics Code, EB Games Australia</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #29</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=29</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 30 Sep 2009 21:01:12 GMT</pubDate>
+			<description>Rooster Teeth is back to weekly podcasts</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank29971.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">29</guid>
+			<itunes:duration>1:24:42</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Left 4 Dead DLC, bumper factories, car collisions, gyroscope tires, m-atv, fake reality tv shows, solitary, guy trapped in elevator, high five, Nicolas Cage as Superman, Terminator, Dollhouse, The Office, Web Soup, RC</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #28</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=28</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 25 Sep 2009 16:40:36 GMT</pubDate>
+			<description>Rooster Teeth finishes out its week of podcasts</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank28584.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">28</guid>
+			<itunes:duration>25:00</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Halo 3 ODST, Genglemen Broncos, Fantastic Fest, The Straight Story, Zombieland, Mavis Beacon</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #27</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=27</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 24 Sep 2009 15:16:42 GMT</pubDate>
+			<description>Rooster Teeth is nearly done with its week of daily podcasts</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank27748.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">27</guid>
+			<itunes:duration>29:52</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Seattle&#039;s Experience Music Project, hospital tents, immortality, Marty O&#039;Donnell, Meow Mix, xkcd, Top Pot, flavored cigarettes, Halo Reach beta</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #26</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=26</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 23 Sep 2009 14:57:07 GMT</pubDate>
+			<description>Rooster Teeth is back on its regular day...but in mini form</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank26894.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">26</guid>
+			<itunes:duration>24:11</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Jackson Browne, Monkey Shines, Casino El Camino, Secet of Monkey Island, Gabriel Knight, Maniac Mansion, Discount Electronics, The Warriors Street Brawl, ODST development time, Nigeria, Steel Battalion, Combat 2, Runa</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #25</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=25</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 22 Sep 2009 15:41:39 GMT</pubDate>
+			<description>Rooster Teeth stumbles into day two of drunk week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank25175.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">25</guid>
+			<itunes:duration>25:53</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Wet, Marvel Ultimate Alliance 2, Fight Night Round 4, Lost, Love Happens, The Return of Bruno</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #24</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=24</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Mon, 21 Sep 2009 15:53:04 GMT</pubDate>
+			<description>Rooster Teeth sucker punches you on Monday morning</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank24111.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">24</guid>
+			<itunes:duration>28:11</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Halo 3 ODST, SKU, Left 4 Dead Screamer, Left 4 Dead DLC, Zombie Apocalypse, Kristen Wiig, Kenan Thompson, Ghost Town, The Invention of Lying, Ricky Gervais Podcast, Whip It, Poutine, H1N1</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #23</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=23</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 16 Sep 2009 22:21:02 GMT</pubDate>
+			<description>Rooster Teeth is relaxing with a PS3 this week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank23838.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">23</guid>
+			<itunes:duration>54:01</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Mexican Independence Day, Cinco de Mayo, sledgehammers, fireworks, IEDs, gravity hammers, storm troopers, Japan&#039;s wireless power from space, September 11th, Scribblenauts, Fermat&#039;s Last Theorem, Uncharted 2,Children o</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #22</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=22</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 09 Sep 2009 19:40:58 GMT</pubDate>
+			<description>Rooster Teeth is confrontational</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank22247.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">22</guid>
+			<itunes:duration>1:28:33</itunes:duration>
+			<itunes:keywords>Rooster Teeth, Drunk Tank, machinima, Gold Class Cinemas, Fallout 3, Left 4 Dead 2, Red Dead Redemption, Scribblenauts, Dante&#039;s Inferno, Split Second, PAX, Rupert Sanders, ODST, Boners, Guy Fawkes, Wales, Trophy Cupcake, lightning, Mega 64</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #21</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=21</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 02 Sep 2009 10:23:31 GMT</pubDate>
+			<description>Rooster Teeth can legally drink now!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank21429.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">21</guid>
+			<itunes:duration>1:29:47</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima Christina Aguilera, Wikipedia, Diverticulitis, Burnie Tasmania, Mygamercard.net, slow mo cell phone cameras, Shadow Complex, Shit my dad says, Bonsai Kitten, PAX, Paul Marino, marketing budgets, Delgo, Avatar, Anne Bancr</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #20</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=20</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 26 Aug 2009 22:36:12 GMT</pubDate>
+			<description>Rooster Teeth just can not stay under an hour anymore!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank20571.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">20</guid>
+			<itunes:duration>1:17:06</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima Halo 3 ODST ViDOC Gamestop God Grew Tired of Us CKY Sultana Pete</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #19</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=19</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 20 Aug 2009 02:00:44 GMT</pubDate>
+			<description>Rooster Teeth is rejoined by Burnie and Gus in this extra long edition</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank19930.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">19</guid>
+			<itunes:duration>1:26:20</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima shadow complex youtube slim ps3 netflix san francisco trials hd hdmi 1.4 joe michael hutchence xbox hd cables worst shirt ever hula hut susan boyle barry evans richard hammond ruby wax ed bye will ferrell ashton kutcher </itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #18</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=18</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 12 Aug 2009 21:06:49 GMT</pubDate>
+			<description>Geoff is driving the Drunk Tank this week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank18168.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">18</guid>
+			<itunes:duration>45:08</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima NXE vid master Fallout 3 marketplace World at War Map Pack Adidas Yellow Spielburg Halo Hitman GI Joe Tom Cruise Paramount Jessica Simpson Dukes of Hazzard</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #17</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=17</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 06 Aug 2009 00:12:09 GMT</pubDate>
+			<description>Rooster Teeth does a late night talk show imitation</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank17392.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">17</guid>
+			<itunes:duration>35:26</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima L4D DLC Zombie Apocalypse Hot Dog Vendors hard drive shredder</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #16</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=16</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 29 Jul 2009 23:00:00 GMT</pubDate>
+			<description>Rooster Teeth is back home from Comic Con 09</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank16430.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">16</guid>
+			<itunes:duration>1:05:39</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima San Diego Comic Con 2009 Entertainment Earth Marina Orlova Olivia Munn Jon Favreau Sam Rockwell Ryan Reynolds Larry David Wood Allen Scott C Avatar 2012 District 9 Alive in Joberg Neill Blomkamp Citroen Halo Chronicles A</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #15</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=15</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 22 Jul 2009 23:15:00 GMT</pubDate>
+			<description>Rooster Teeth is late at Comic Con 09</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank15787.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">15</guid>
+			<itunes:duration>29:54</itunes:duration>
+			<itunes:keywords>Rooster Teeth Drunk Tank machinima San Diego Comic Con 2009</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #14</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=14</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 15 Jul 2009 23:26:31 GMT</pubDate>
+			<description>Rooster Teeth loves Hot for Words</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank14106.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">14</guid>
+			<itunes:duration>1:05:16</itunes:duration>
+			<itunes:keywords>Hot for words Donald Pleasence Mario Marathon Child&#039;s Play Killer Shrimp India North Korea NASA Skylab ISS Fallout 3 Firelance RvBTO Ed Robertson Big Green Egg Moon Duncan Jones Snopes H1N1 World War Z Coleco Sega Orson Scott Card Secret Weapons of the Lu</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #13</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=13</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 08 Jul 2009 23:49:10 GMT</pubDate>
+			<description>Rooster Teeth is back at full strength with Gus and Joel</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank13526.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">13</guid>
+			<itunes:duration>54:36</itunes:duration>
+			<itunes:keywords>Olivia Munn Paris Hilton Jesse Ventura Michael Jackson Thriller Back in Black Megan Fox Michael Bay Awesome 360Voice MLB 2K9 Rice University Grifball Drunk Tank Rooster Teeth machinima Maybach</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #12</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=12</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 02 Jul 2009 01:56:01 GMT</pubDate>
+			<description>Rooster Teeth suffers without Gus or Joel this week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank12769.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">12</guid>
+			<itunes:duration>1:00:56</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Maybach</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #11</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=11</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Thu, 25 Jun 2009 00:13:52 GMT</pubDate>
+			<description>Rooster Teeth is extremely nerdy and afraid of conspiracies this week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank11566.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">11</guid>
+			<itunes:duration>42:41</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima twitter verified tweetstalk kxan steve jobs liver ed mcmahon racism transformers phantom menace midi-chlorians lasers larpers switch pitcher megan fox john titor fema Maybach</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #10</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=10</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 17 Jun 2009 23:25:48 GMT</pubDate>
+			<description>Rooster Teeth finally hits double digit episodes!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank10761.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">10</guid>
+			<itunes:duration>37:07</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Myspace Still Not Telling You bullies stab cat murder Don Bluth Cliff Hanger Intellivision Return to Castle Wolfenstein NASA Heavy boots Thundarr Tweeting too hard Maybach</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #9</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=9</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Wed, 10 Jun 2009 21:17:23 GMT</pubDate>
+			<description>Rooster Teeth moves to its new Wednesday release</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank9171.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">9</guid>
+			<itunes:duration>47:18</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Felicity Huffman Bill Burr Hacksaw Jim Duggan Alex Jones Waitress Cheryl Hines L4D2 Left 4 Dead 2 Hitler WolfQuest ZFS Snow Leopard server iphone 3gs Zach Galifianakis Grifball Pajamachievement Mount Gay Rum Maybach</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #8</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=8</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 05 Jun 2009 22:13:20 GMT</pubDate>
+			<description>Rooster Teeth kicks off with a theme song and longs for a free Maybach</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank8281.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">8</guid>
+			<itunes:duration>50:54</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima E3 theme song Natal Phantom Old Republic Juan Pelota Uncharted 2 Alan Wake Splinter Cell Conviction ODST Halo Reach Left 4 Dead 2 Modern Warfare Mega64 Totem Ball Primer Battlefield 1943 Bone Shield Maybach Miami Rod Bla</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #7</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=7</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 29 May 2009 19:15:39 GMT</pubDate>
+			<description>Rooster Teeth welcomes special guest star Matt Hullum</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank7131.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">7</guid>
+			<itunes:duration>36:30</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Matt Hullum E3 Datsun 200sx tools dump truck saw terminator call of duty modern warfare 2 pixar american idol jay leno tonight show</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #6</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=6</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 22 May 2009 18:00:00 GMT</pubDate>
+			<description>Rooster Teeth starts off on a tangent and never gets on track</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank6741.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">6</guid>
+			<itunes:duration>34:50</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima tangent Paul Harvey Rich Hall Fallout 3 meat sweat BBQ Lockhart Punch-out</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #5</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=5</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 15 May 2009 18:00:00 GMT</pubDate>
+			<description>Rooster Teeth is going crazy about Fallout 3</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank5758.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">5</guid>
+			<itunes:duration>42:12</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Joel Lost Blizzcon WoW Grunty Fallout 3 Battlefield 1943</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #4</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=4</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 08 May 2009 18:00:00 GMT</pubDate>
+			<description>Rooster Teeth returns after missing a week</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank4173.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">4</guid>
+			<itunes:duration>39:35</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Flock Star Trek Duke Nukem Forever Pixar</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #3</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=3</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 17 Apr 2009 18:00:00 GMT</pubDate>
+			<description>Rooster Teeth has now taken hold and is a regular feature!</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank3362.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">3</guid>
+			<itunes:duration>36:48</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima WoW David Keller caller</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #2</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=2</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Fri, 10 Apr 2009 18:00:00 GMT</pubDate>
+			<description>Rooster Teeth refuses to die!  The crew talks about what happened in the 4 months between podcasts</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank2189.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">2</guid>
+			<itunes:duration>25:22</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Godfather Resident Evil WoW Amsterdam</itunes:keywords>
+			</item>
+			<item>
+			<title>Rooster Teeth Podcast #1</title>
+			<link>http://roosterteeth.com/podcast/episode.php?id=1</link>
+			<itunes:author>Rooster Teeth Podcast</itunes:author>
+			<pubDate>Tue, 09 Dec 2008 17:00:00 GMT</pubDate>
+			<description>Rooster Teeth kicks off with a gamerscore challenge issued to Geoff by Burnie</description>
+			<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rtpodcast/DrunkTank-DrunkTank1394.mp3" type="audio/mpeg" />
+			<guid isPermaLink="false">1</guid>
+			<itunes:duration>42:38</itunes:duration>
+			<itunes:keywords>Drunk Tank Rooster Teeth machinima Achievement challenge 10000 gamer score xbox live</itunes:keywords>
+			</item>
+		</channel>
+		</rss>
+		
