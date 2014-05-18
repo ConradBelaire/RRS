@@ -1,5 +1,6 @@
+
 import xml.etree.ElementTree as ET
-tree = ET.parse('RootserTeeth.xml')
+tree = ET.parse('RoosterTeeth.xml')
 root = tree.getroot()
 
-print(root)
+print(root.tag)
